@@ -33,15 +33,12 @@ sudo apt update
 sudo apt install ecryptfs-utils
 sudo adduser --encrypt-home cryptouser
 ```
+<img width="744" height="464" alt="Снимок экрана 2026-04-27 220945" src="https://github.com/user-attachments/assets/ba16e6e7-718b-4e72-896a-8107ea3fdfbd" />
+
 <img width="1023" height="217" alt="Снимок экрана 2026-04-27 222812" src="https://github.com/user-attachments/assets/f4d17d3b-7aea-4736-8e7b-369ce3ec1bce" />
 
 
-
 <img width="992" height="280" alt="Снимок экрана 2026-04-27 222852" src="https://github.com/user-attachments/assets/eef89a4f-34ca-405f-a4b6-59b20f2fbbad" />
-
-
-
-<img width="744" height="464" alt="Снимок экрана 2026-04-27 220945" src="https://github.com/user-attachments/assets/ba16e6e7-718b-4e72-896a-8107ea3fdfbd" />
 
 
 
