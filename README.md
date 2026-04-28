@@ -35,8 +35,8 @@ sudo adduser --encrypt-home cryptouser
 ```
 <img width="1319" height="769" alt="Снимок экрана 2026-04-28 140528" src="https://github.com/user-attachments/assets/6f13c1b7-f9db-4830-a304-9d0f68deb6ea" />
 
+<img width="1290" height="238" alt="Снимок экрана 2026-04-28 141151" src="https://github.com/user-attachments/assets/8d0fb7f1-aff7-4769-91e1-a401cf9269ea" />
 
-Выполнила команды руководствуясь презентацией, получился не совсем тот результат, который ожидала.
 
 ### Задание 2
 Установите поддержку LUKS.
